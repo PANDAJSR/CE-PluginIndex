@@ -1,0 +1,13 @@
+id: inkcanvas.iccce.secagent
+name: ICC-CE SecAgent Plugin
+version: 0.3.0
+description: 为 SecAgent 提供 ICC-CE 状态、设置、白板管理和原生可编辑 SVG 插入工具。
+author: SecAgent
+entranceAssembly: ICC-CE.SecAgent.Plugin.dll
+apiVersion: 1.0.0
+url: https://github.com/SECTL/ICC-CE-SecAgent-Plugin
+repoOwner: SECTL
+repoName: ICC-CE-SecAgent-Plugin
+downloadPath: releases/download/v{version}/inkcanvas.iccce.secagent.icpx
+readmePath: README.md
+dependencies: []
